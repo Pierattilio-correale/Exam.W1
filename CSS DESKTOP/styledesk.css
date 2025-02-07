@@ -153,23 +153,19 @@ padding-bottom: 40px;
 
 .fotoone{
     
-   width: 25%;
-   height: 227px;
-padding-left: 20px;
-padding-right: 20px;
+ 
+  width: 410px;
+
 }
 .one{
-    text-align: left;
-    padding-left:40px ;
-    padding-right:1000px ;
+  
   
 }
 .two{
-text-align: center;
+
 
 }
 .three{
-text-align: right;
 
 }
 span p{
@@ -209,4 +205,15 @@ padding-bottom: 80px;
 }
 .phone{
     padding-right: 50px;
+}
+   
+
+.fotooneborder{
+border: solid;
+border-color: #dee1e3;
+width: 30%;
+
+
+
+display: inline-block;
 }
