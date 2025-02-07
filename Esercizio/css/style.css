@@ -1,0 +1,168 @@
+/* Your styles here */
+
+/* BODY*/
+body{
+    font-size: 1.2rem;
+    color: #393d41 ;
+    line-height: 1.65em;
+    font-family: "Open Sans", serif;
+}
+
+/* HEADER */
+header{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+.logo{
+    height: 40px;
+    padding: 40px;
+   
+}
+
+
+/* Main */
+main{
+   text-align: center;
+    
+    
+    
+}
+.immage-container{
+    background-image: url('../images/banner.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+main h1{
+    font-family: "Montserrat", serif;
+    color:  #25a2c3 ;
+    font-weight: 700;
+    line-height: 1.1em;
+    font-size: 2em;
+    padding-top: 20px;
+}
+h1{
+   
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.button{
+    background-color: #f04c2f;
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+    color: white;
+    padding: 8px 20px;
+    margin: 20px 20px;
+}
+
+
+
+/* Section*/
+section p{
+    padding-left: 45px;
+    padding-right: 45px;
+    
+    
+}
+/* Article*/
+h3{
+    font-family: "Montserrat", serif;
+    color:  #25a2c3 ;
+    font-weight: 700;
+    line-height: 1.1em;
+    font-size: 1.2em;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+article p{
+    padding-left: 45px;
+    padding-right: 45px;
+    
+}
+article img{
+    border-radius: 20em;
+    margin-top: 40px;
+}
+/* aside*/
+h2{
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+    line-height: 1.1em;
+    font-size: 1.5em;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+aside{
+background-color:  #f04c2f;
+color: white;
+
+}
+
+ 
+.firstpaside{
+    margin-top:20px;
+    font-style: italic;
+    
+}
+.mariorossi{
+    margin-top:20px
+}
+.ceoepicode{
+font-size: 0.8em;
+padding-bottom: 40px;
+}
+
+.fotoone{
+    width: 100%;
+   
+
+}
+
+
+.fotooneborder{
+
+border: solid;
+border-color: #dee1e3;
+margin-top: 40px;
+margin-right: auto;
+margin-left: auto;
+width: 90%;
+}
+.fotooneborder p{
+    padding: 20px;
+}
+/* Footer*/
+
+footer{
+    background-color: #25a2c3;
+    margin-top: 80px;
+    text-align: center;
+    color: #c8e7f0;
+}
+footer h2{
+    color: white;
+    
+}
+footer a{
+    color: #c8e7f0;
+}
+.barra{
+    margin: 20px auto;
+    width: 200px;
+    border-bottom: 2px solid;
+    border-color: white;
+}
+.ultimoparagrafo{
+font-size: 0.8em;
+padding-bottom: 80px;
+}
